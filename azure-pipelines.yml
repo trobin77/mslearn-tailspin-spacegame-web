@@ -47,7 +47,7 @@ steps:
   parameters:
     buildConfiguration: 'Debug'
 
-- template: templates/build.yml
+- template: Tailspin.SpaceGame.Web/templates/build.yml
   parameters:
     buildConfiguration: 'Release'
 
