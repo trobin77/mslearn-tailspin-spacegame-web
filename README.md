@@ -1,4 +1,6 @@
 
+[![Build Status](https://trobin7.visualstudio.com/TroySpaceGame/_apis/build/status/trobin77.mslearn-tailspin-spacegame-web?branchName=master)](https://trobin7.visualstudio.com/TroySpaceGame/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
